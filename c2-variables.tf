@@ -21,6 +21,5 @@ variable "my_s3_tags" {
     Environment = "dev"
     newtag1     = "tag1"
     newtag2     = "tag2"
-    newtag3     = "tag3"
   }
 }
